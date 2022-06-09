@@ -1,6 +1,6 @@
 ## Hey 👋, This is Zhouqi
 
-[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:admin@7yunkj.com) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zhou-qi-98/)](https://www.github.com/zhou-qi-98/)
+[![Mail Badge](https://img.shields.io/badge/-admin@7yunkj.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:admin@7yunkj.com)](mailto:admin@7yunkj.com) [![Github Badge](https://img.shields.io/badge/-zhou-qi-98-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zhou-qi-98/)](https://www.github.com/zhou-qi-98/)
 ## Some of my Github Stats
 <p align=left> <img src=zhouqi98.7yunkj.com alt=zhouqi /> </p>
 
